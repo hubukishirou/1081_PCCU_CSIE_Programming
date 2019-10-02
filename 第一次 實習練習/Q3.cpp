@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    int num; //宣告一個變數
+	int num; //宣告一個變數
 
 	cin >> num; //輸入一個數
 
