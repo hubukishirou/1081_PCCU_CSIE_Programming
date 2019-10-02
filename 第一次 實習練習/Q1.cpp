@@ -18,5 +18,5 @@ int main()
 	cout << num_1 << "-" << num_2 << "=" << num_1-num_2 << endl; //乘法
 	cout << num_1 << "/" << num_2 << "=" << num_1/num_2 << "..." << num_1%num_2 << endl; //除法與餘數
 	
-	return 0;
+	
 }
